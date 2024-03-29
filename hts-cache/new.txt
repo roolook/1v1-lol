@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:30:10	72002/72002	---MCZ	200	added ('OK')	text/html	date:Fri,%2029%20Mar%202024%2019:30:11%20GMT	https://book-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@0c449453ccad555fac7e0d86ddc031d476f1f209/edit/n.xml&container=ig	C:/My%20Web%20Sites/1v1%20classroom6x/book-opensocial.googleusercontent.com/gadgets/ifre4d5.html	(from )
+15:30:10	1571/1571	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2029%20Mar%202024%2019:30:12%20GMT	https://book-opensocial.googleusercontent.com/robots.txt		(from )
